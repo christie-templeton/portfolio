@@ -16,7 +16,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "2028 E Ben White Blvd #240-7625"
+address = "2028 E Ben White Blvd #240-7625, Austin, Texas"
 author = "Christie Templeton"
 copyright = "Copyright &copy; 2020 Christie Templeton"
 description = "Technical Writer, UX Writer, Graphic Designer, Web Designer"
