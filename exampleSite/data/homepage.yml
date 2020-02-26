@@ -32,7 +32,7 @@ skill:
     progress: 90%
     color: "#fdb157"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
