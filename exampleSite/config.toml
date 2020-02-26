@@ -25,7 +25,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/about/Christie_Templeton_logo.png"
 phone = "323-379-3996"
-theme_color = "#41228e"
+theme_color = "#0a9fcc"
 [params.contact]
 enable = true
 form_action = "#"
