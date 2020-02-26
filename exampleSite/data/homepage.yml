@@ -58,6 +58,12 @@ service:
   enable: true
   title: Services
   item:
+  - title: Graphic Design
+    icon: ti-marker
+    content: I work in Adobe Illustrator and Photoshop to create professional graphics
+      for various applications including; instructional design, branding, marketing
+      materials, and more.
+    highlighted: ''
   - title: Technical Writing
     icon: ti-pencil-alt
     content: I specialize in producing high quality, easy to navigate documentation
@@ -79,11 +85,6 @@ service:
       materials in the form of videos, online quizzes, learning modules, and more.
       I can help you track the success of training and give feedback to improve the
       success ratio of your course modules. '
-    highlighted: false
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
   enable: true
