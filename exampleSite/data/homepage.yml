@@ -3,9 +3,10 @@ banner:
   title: Hi! I’m <br> Christoher <br> UX designer
 about:
   enable: true
-  content: 'My name is Christie Templeton and I am an experienced Technical Writer,
+  content: My name is Christie Templeton and I am an experienced Technical Writer,
     UX Writer, Graphic Designer, and Web designer. I have produced content for multiple
-    well known clients. '
+    well known clients. Click the button below to learn more about how I can help
+    your business.
   button:
     enable: true
     label: know more
