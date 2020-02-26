@@ -58,6 +58,13 @@ service:
   enable: true
   title: Services
   item:
+  - title: Technical Writing
+    icon: ''
+    content: I specialize in producing high quality, easy to navigate documentation
+      tailored for your audience level, from senior software developers to customer
+      facing media. I work with your team to extract your process and convert it into
+      highly digestible, easy to navigate instructions and training material.
+    highlighted: ''
   - title: UI Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
