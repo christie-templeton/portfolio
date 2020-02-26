@@ -67,8 +67,10 @@ service:
     highlighted: ''
   - title: UX Design
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Hire me to streamline your user's experience on your software, portal,
+      or app. Lead viewers to take the specific actions you want them to take. I can
+      clean up your copy to make your project easier for the customer to understand
+      and utilize.
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
