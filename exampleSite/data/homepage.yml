@@ -59,17 +59,12 @@ service:
   title: Services
   item:
   - title: Technical Writing
-    icon: ''
+    icon: ti-pencil-alt
     content: I specialize in producing high quality, easy to navigate documentation
       tailored for your audience level, from senior software developers to customer
       facing media. I work with your team to extract your process and convert it into
       highly digestible, easy to navigate instructions and training material.
     highlighted: ''
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
   - title: UX Design
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -77,6 +72,11 @@ service:
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    highlighted: false
+  - title: UI Design
+    icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
