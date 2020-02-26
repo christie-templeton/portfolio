@@ -72,10 +72,13 @@ service:
       clean up your copy to make your project easier for the customer to understand
       and utilize.
     highlighted: true
-  - title: Interaction Design
+  - title: Instructional Design
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'I can assist your organization with getting your employees and your
+      customers up to speed via clear concise training media. I can create training
+      materials in the form of videos, online quizzes, learning modules, and more.
+      I can help you track the success of training and give feedback to improve the
+      success ratio of your course modules. '
     highlighted: false
   - title: UI Design
     icon: ti-palette
