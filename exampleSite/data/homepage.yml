@@ -17,12 +17,12 @@ skill:
   title: Skills
   item:
   - title: Technical Writing
-    progress: "100"
+    progress: 100%
     color: blue
   - title: Web Design
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: UX Writing
     progress: 60%
     color: "#9473e6"
   - title: After Effects
