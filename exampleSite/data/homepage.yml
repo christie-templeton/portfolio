@@ -51,18 +51,9 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
+  - title: Communications BA
     year: "1998"
-    academy: Cardiff School
+    academy: University of Missouri Kansas City
 service:
   enable: true
   title: Services
