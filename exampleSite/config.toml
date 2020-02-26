@@ -2,7 +2,7 @@ baseURL = "https://christietempleton.netlify.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Christie Templeton | Professional Portfolio"
 [[menu.main]]
 URL = "about"
 name = "About"
