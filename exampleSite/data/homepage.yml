@@ -16,12 +16,12 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Instructional Design
-    progress: 75%
-    color: pink
   - title: Technical Writing
     progress: 100%
     color: blue
+  - title: Instructional Design
+    progress: 75%
+    color: pink
   - title: UX Writing
     progress: 60%
     color: "#9473e6"
