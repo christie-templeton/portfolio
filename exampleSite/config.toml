@@ -23,7 +23,7 @@ description = "Technical Writer, UX Writer, Graphic Designer, Web Designer"
 email = "christie@christietempleton.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/about/signature.png"
+logo = "images/about/Christie_Templeton_logo.png"
 phone = "323-379-3996"
 theme_color = "#41228e"
 [params.contact]
