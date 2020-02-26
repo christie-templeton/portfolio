@@ -16,15 +16,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "2028 E Ben White Blvd #240-7625"
+author = "Christie Templeton"
+copyright = "Copyright &copy; 2020 Christie Templeton"
+description = "Technical Writer, UX Writer, Graphic Designer, Web Designer"
+email = "christie@christietempleton.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "323-379-3996"
 theme_color = "#41228e"
 [params.contact]
 enable = true
