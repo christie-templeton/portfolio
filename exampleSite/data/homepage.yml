@@ -16,21 +16,21 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Instructional Design
+    progress: 75%
+    color: pink
   - title: Technical Writing
     progress: 100%
     color: blue
-  - title: Web Design
-    progress: 90%
-    color: "#fdb157"
   - title: UX Writing
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Graphic Design
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
-    color: "#ffbcaa"
+  - title: Web Design
+    progress: 90%
+    color: "#fdb157"
 experience:
   enable: true
   title: Experience
