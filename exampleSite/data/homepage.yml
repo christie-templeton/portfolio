@@ -76,7 +76,7 @@ service:
       or app. Lead viewers to take the specific actions you want them to take. I can
       clean up your copy to make your project easier for the customer to understand
       and utilize.
-    highlighted: true
+    highlighted: 'false'
 portfolio:
   enable: true
   title: Portfolio
