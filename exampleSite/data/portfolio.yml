@@ -2,14 +2,16 @@
 item:
 - image: https://christietempleton.netlify.com/images/wsTHB-software-training-manual-2.jpg
   project_url: https://christietempleton.netlify.com/blog/document-standards-template/
-  category: []
+  category:
+  - Writing
 - image: https://christietempleton.netlify.com/images/wsTHB-document-standards.jpg
   project_url: https://christietempleton.netlify.com/blog/document-standards-policies/
   category:
   - Writing
 - image: images/AV_sticker%20(3).jpg
   project_url: https://christietempleton.netlify.com/blog/av-stickers-hang-tags-project/
-  category: []
+  category:
+  - Design
 clients_logo_slider:
   enable: false
   title: My Clients
