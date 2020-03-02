@@ -2,7 +2,8 @@
 item:
 - image: https://christietempleton.netlify.com/images/ws-document-standards-1.jpg
   project_url: https://christietempleton.netlify.com/blog/document-standards-policies/
-  category: ''
+  category:
+  - Technical Writing
 - image: images/AV_sticker%20(3).jpg
   project_url: https://christietempleton.netlify.com/blog/av-stickers-hang-tags-project/
   category:
