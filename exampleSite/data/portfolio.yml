@@ -2,8 +2,7 @@
 item:
 - image: https://christietempleton.netlify.com/images/wsTHB-software-training-manual-2.jpg
   project_url: https://christietempleton.netlify.com/blog/document-standards-template/
-  category:
-  - Technical Writing
+  category: []
 - image: https://christietempleton.netlify.com/images/wsTHB-document-standards.jpg
   project_url: https://christietempleton.netlify.com/blog/document-standards-policies/
   category:
