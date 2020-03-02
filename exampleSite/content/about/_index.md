@@ -26,9 +26,9 @@ I am a self-taught graphic designer, working mostly in Adobe Illustrator and Pho
 
 I am experienced with various forms of Web Design and development including:
 
-* Creating static sites using Github, Jekyll, Hugo, and more.
-* Creating and managing Wordpress sites
-* Well versed in html, css, and javascript.
+* Creating static sites using Github, Jekyll, Hugo, and more (this site is hosted on Github, using forestry.io and a Hugo theme)
+* Creating and managing Wordpress sites (samples in my [portfolio](https://christietempleton.netlify.com/portfolio "Portfolio"))
+* Well versed in html, css, and javascript
 
 ## Complimentary Skills
 
