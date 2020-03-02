@@ -19,7 +19,7 @@ This set of images is from an AV sticker and tag placement project I assisted wi
 
 The designs were sent to a printer who provided our designs on both stickers as well as hard plastic hang-tags.
 
- ![](/images/AV_sticker (1).jpg)
+![](/images/AV_sticker (1).jpg)
 
 ![](/images/AV_sticker (3).jpg)![](/images/AV_sticker (2).jpg)
 
