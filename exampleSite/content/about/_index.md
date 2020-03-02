@@ -12,13 +12,15 @@ My name is Christie Templeton. I possess a diverse skillset that I have develope
 
 I started my career as a Technical Writer long before I actually held the job title. I was the one everyone in the office consulted when they couldn't understand how to use an application, as I always dove in to learn it myself and then sent them instructions they could easily reference to get their job done. This eventually evolved into me landing my official first role as a Technical Writer when I was employed at Unisys. There I assisted their many clients, including TSA, DHS, and Amgen, with gathering processes and requirements and then drafting procedural documentation that was provided for customers, agents, engineers, and other audience types.
 
----
+***
 
 ## Instructional Design
 
+I create educational media and measure the success rate. I excel in creating learning management systems as well as video training, written training, quizzing, and measuring KPIs to determine the effectiveness of the instruction, as well as areas with need for improvement.
+
 ## Graphic Design
 
-I am a self-taught graphic designer, working mostly in Adobe Illustrator and Photoshop.
+I am a self-taught graphic designer, working mostly in Adobe Illustrator and Photoshop. I have several samples in my [portfolio](https://christietempleton.netlify.com/portfolio "Portfolio") for you to review.
 
 ## Web Design
 
