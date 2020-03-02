@@ -25,12 +25,9 @@ skill:
   - title: UX Writing
     progress: 60%
     color: "#9473e6"
-  - title: Graphic Design
+  - title: Graphic & Web Design
     progress: 80%
     color: "#bdecf6"
-  - title: Web Design
-    progress: 90%
-    color: "#fdb157"
 experience:
   enable: false
   title: Experience
