@@ -36,7 +36,7 @@ I also have skills that compliment my experience including:
 * Video production and editing
 * Voice over artist
 
-## Previous Clients
+## Previous Clients & Employers
 
 I have produced high quality work for companies including:
 
@@ -45,3 +45,6 @@ I have produced high quality work for companies including:
 * Manatt Phelps & Phillips
 * TSA & DHS
 * Amgen
+* Keystone Automotive
+* Verio
+* 
