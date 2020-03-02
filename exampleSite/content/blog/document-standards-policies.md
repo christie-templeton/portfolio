@@ -1,7 +1,7 @@
 +++
 date = 2020-02-27T06:00:00Z
 description = ""
-image = "/images/ws-document-standards-1.jpg"
+image = "/images/wsTHB-document-standards.jpg"
 title = "Document Standards Template"
 
 +++
