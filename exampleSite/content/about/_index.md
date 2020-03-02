@@ -24,8 +24,9 @@ I am a self-taught graphic designer, working mostly in Adobe Illustrator and Pho
 
 ## Web Design
 
-* I am experienced with various forms of Web Design and development including:  
-  Creating static sites using Github, Jekyll, Hugo, and more.
+I am experienced with various forms of Web Design and development including:
+
+* Creating static sites using Github, Jekyll, Hugo, and more.
 * Creating and managing Wordpress sites
 * Well versed in html, css, and javascript.
 
