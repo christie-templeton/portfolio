@@ -54,7 +54,7 @@ h1,
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 40px
 }
 
 @media(max-width:991px) {
