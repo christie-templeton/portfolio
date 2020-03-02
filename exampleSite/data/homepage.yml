@@ -61,7 +61,7 @@ service:
       tailored for your audience level, from senior software developers to customer
       facing media. I work with your team to extract your process and convert it into
       highly digestible, easy to navigate instructions and training material.
-    highlighted: ''
+    highlighted: 'false'
   - title: Instructional Design
     icon: ti-panel
     content: 'I can assist your organization with getting your employees and your
