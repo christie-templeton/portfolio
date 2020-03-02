@@ -1,7 +1,7 @@
 ---
 title: AV Stickers & Tags
 date: 2020-03-02T06:00:00+00:00
-image: "/images/Cable-Hang-Tags.jpg"
+image: "/images/AV_sticker (3).jpg"
 description: Samples of AV Tags design
 
 ---
