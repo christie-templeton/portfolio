@@ -55,12 +55,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: Graphic Design
-    icon: ti-marker
-    content: I work in Adobe Illustrator and Photoshop to create professional graphics
-      for various applications including; instructional design, branding, marketing
-      materials, and more.
-    highlighted: ''
   - title: Technical Writing
     icon: ti-pencil-alt
     content: I specialize in producing high quality, easy to navigate documentation
@@ -68,13 +62,6 @@ service:
       facing media. I work with your team to extract your process and convert it into
       highly digestible, easy to navigate instructions and training material.
     highlighted: ''
-  - title: UX Design
-    icon: ti-vector
-    content: Hire me to streamline your user's experience on your software, portal,
-      or app. Lead viewers to take the specific actions you want them to take. I can
-      clean up your copy to make your project easier for the customer to understand
-      and utilize.
-    highlighted: true
   - title: Instructional Design
     icon: ti-panel
     content: 'I can assist your organization with getting your employees and your
@@ -83,6 +70,13 @@ service:
       I can help you track the success of training and give feedback to improve the
       success ratio of your course modules. '
     highlighted: false
+  - title: UX Design
+    icon: ti-vector
+    content: Hire me to streamline your user's experience on your software, portal,
+      or app. Lead viewers to take the specific actions you want them to take. I can
+      clean up your copy to make your project easier for the customer to understand
+      and utilize.
+    highlighted: true
 portfolio:
   enable: true
   title: Portfolio
