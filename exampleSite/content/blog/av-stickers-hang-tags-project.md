@@ -1,6 +1,6 @@
 +++
 date = 2020-03-02T06:00:00Z
-description = ""
+description = "AV Stickers & Hang-tags Designed in Adobe Illustrator"
 draft = true
 image = "/images/AV_sticker (3).jpg"
 title = "AV Stickers & Hang-tags Project"
