@@ -48,4 +48,3 @@ I have produced high quality work for companies including:
 * Amgen
 * Keystone Automotive
 * Verio
-* 
