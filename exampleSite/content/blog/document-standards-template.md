@@ -1,7 +1,6 @@
 +++
 date = 2020-02-27T06:00:00Z
 description = "Sample Software Training Manual"
-draft = true
 image = "/images/wsTHB-software-training-manual-2.jpg"
 title = "Software Training Manual"
 
