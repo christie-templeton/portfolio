@@ -1,5 +1,9 @@
 ---
 item:
+- image: ''
+  project_url: https://christietempleton.netlify.com/blog/team-unicorns
+  category:
+  - design
 - image: https://christietempleton.netlify.com/images/All-Products-Category-Image.png
   project_url: https://christietempleton.netlify.com/blog/graphic-designs
   category:
