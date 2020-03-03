@@ -1,13 +1,5 @@
 ---
 item:
-- image: https://christietempleton.netlify.com/images/Homepage-Portfolio---Team-Unicorns.png
-  project_url: https://christietempleton.netlify.com/blog/team-unicorns
-  category:
-  - design
-- image: https://christietempleton.netlify.com/images/All-Products-Category-Image.png
-  project_url: https://christietempleton.netlify.com/blog/graphic-designs
-  category:
-  - design
 - image: https://christietempleton.netlify.com/images/wsTHB-LDAP-guide.jpg
   project_url: https://christietempleton.netlify.com/blog/sample-ldap-setup-guide
   category:
@@ -24,6 +16,14 @@ item:
   project_url: https://christietempleton.netlify.com/blog/document-standards-policies/
   category:
   - writing
+- image: https://christietempleton.netlify.com/images/All-Products-Category-Image.png
+  project_url: https://christietempleton.netlify.com/blog/graphic-designs
+  category:
+  - design
+- image: https://christietempleton.netlify.com/images/Homepage-Portfolio---Team-Unicorns.png
+  project_url: https://christietempleton.netlify.com/blog/team-unicorns
+  category:
+  - design
 - image: images/AV_sticker%20(3).jpg
   project_url: https://christietempleton.netlify.com/blog/av-stickers-hang-tags-project/
   category:
