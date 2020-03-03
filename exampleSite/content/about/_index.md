@@ -6,7 +6,7 @@ author_image: images/about/avatar.png
 author_signature: images/about/signature.png
 
 ---
-My name is Christie Templeton. I possess a diverse skillset that I have developed over the years that allows me to bring multiple talents and skills to the table beyond what many consultants can offer. This is the long run can save you money hiring me as I offer a competitive service. Please read below to learn more about the services I can offer your business.
+My name is Christie Templeton. I possess a diverse skillset that I have developed over the years that allows me to bring multiple talents and skills to the table beyond what many consultants can offer. This is the long run can save you money hiring me as I offer a competitive service. Please read below to learn more about the services I can offer your business. You can also [view my resume](https://drive.google.com/file/d/1MSNGzTqktmqkpaygmbXrRpL09-Uv3wZS/view?usp=sharing) on Google drive.
 
 ***
 
@@ -21,7 +21,6 @@ I started my career as a Technical Writer long before I actually held the job ti
 I create educational media and measure the success rate. I excel in creating learning management systems as well as video training, written training, quizzing, and measuring KPIs to determine the effectiveness of the instruction, as well as areas with need for improvement.
 
 ***
-
 
 ## Graphic Design
 
