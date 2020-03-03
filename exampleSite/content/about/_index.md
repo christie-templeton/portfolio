@@ -36,6 +36,14 @@ I am experienced with various forms of Web Design and development including:
 * Creating and managing Wordpress sites (samples in my [portfolio](https://christietempleton.netlify.com/portfolio "Portfolio"))
 * Well versed in html, css, and javascript
 
+### Website I have developed:
+
+[http://ChristieTempleton.pro]() (Github, Hugo, Forestry)
+
+[http://ChristieTempleton.com]() (Wordpress)
+
+[http://HyphenateMusicAcademy.com](http://HyphenateMusicAcademy.com) (Wordpress)
+
 ***
 
 ## Complimentary Skills
