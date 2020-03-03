@@ -1,5 +1,8 @@
 ---
 item:
+- image: All-Products-Category-Image.png
+  project_url: https://christietempleton.netlify.com/blog/graphic-designs
+  category: ''
 - image: https://christietempleton.netlify.com/images/wsTHB-LDAP-guide.jpg
   project_url: https://christietempleton.netlify.com/blog/sample-ldap-setup-guide
   category:
