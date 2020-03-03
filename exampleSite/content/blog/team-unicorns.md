@@ -5,7 +5,10 @@ image = "/images/Homepage-Portfolio---Team-Unicorns.png"
 title = "Team Unicorns"
 
 +++
-Team Unicorns! is a property I created and designed in Adobe Illustrator for print on apparel and household items. You can view more designs at [https://christietempleton.com](https://christietempleton.com)
+Team Unicorns! is a property I created and designed in Adobe Illustrator for print on apparel and household items. You can view more designs at [https://christietempleton.com/product-category/all-products/shop-by-design/team-unicorns/](https://christietempleton.com/product-category/all-products/shop-by-design/team-unicorns/ "https://christietempleton.com/product-category/all-products/shop-by-design/team-unicorns/")
+
+<img src="/images/Team%20Unicorns%20Avatar.jpg">
+
 
 ![](/images/Team Unicorns Avatar.jpg)
 
