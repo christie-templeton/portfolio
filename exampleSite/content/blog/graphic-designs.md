@@ -5,7 +5,7 @@ image = "/images/All-Products-Category-Image.png"
 title = "Graphic Designs"
 
 +++
-The following are some various designs and mockups from my graphic design portfolio. These designs were produced in Adobe Illustrator and Adobe Photoshop. 
+The following are some various designs and mockups from my graphic design portfolio. These designs were produced in Adobe Illustrator and Adobe Photoshop.
 
 ![](/images/Christie Templeton Designs Business Front.jpg)
 
