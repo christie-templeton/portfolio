@@ -20,6 +20,10 @@ item:
   project_url: https://christietempleton.netlify.com/blog/graphic-designs
   category:
   - design
+- image: https://christietempleton.netlify.com/images/Homepage-Portfolio-Sugar-Sugar.jpg
+  project_url: https://christietempleton.netlify.com/blog/sugar-sugar-so-sweet
+  category:
+  - design
 - image: https://christietempleton.netlify.com/images/Homepage-Portfolio---Team-Unicorns.png
   project_url: https://christietempleton.netlify.com/blog/team-unicorns
   category:
