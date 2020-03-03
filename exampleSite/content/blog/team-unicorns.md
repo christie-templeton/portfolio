@@ -10,3 +10,5 @@ Team Unicorns! is a property I created and designed in Adobe Illustrator for pri
 <img src="/images/Team%20Unicorns%20Avatar.jpg">
 
 ![/images/Team Unicorns Avatar.jpg](/images/Team Unicorns Avatar.jpg)
+
+![/images/Team Unicorns! Sports Apparel.png](/images/Team Unicorns! Sports Apparel.png)
