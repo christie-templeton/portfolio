@@ -1,7 +1,6 @@
 +++
 date = 2020-03-03T06:00:00Z
 description = "Sample Press Release"
-draft = true
 image = "/images/wsTHB-press-release.jpg"
 title = "Sample Press Release"
 
