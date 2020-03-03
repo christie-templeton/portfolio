@@ -2,7 +2,8 @@
 item:
 - image: https://christietempleton.netlify.com/images/wsTHB-LDAP-guide.jpg
   project_url: https://christietempleton.netlify.com/blog/sample-ldap-setup-guide
-  category: ''
+  category:
+  - writing
 - image: https://christietempleton.netlify.com/images/wsTHB-press-release.jpg
   project_url: https://christietempleton.netlify.com/blog/sample-press-release
   category:
