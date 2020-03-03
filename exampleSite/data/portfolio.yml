@@ -8,7 +8,8 @@ item:
   category: []
 - image: images/AV_sticker%20(3).jpg
   project_url: https://christietempleton.netlify.com/blog/av-stickers-hang-tags-project/
-  category: []
+  category:
+  - design
 clients_logo_slider:
   enable: false
   title: My Clients
